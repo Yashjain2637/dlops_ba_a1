@@ -1,2 +1,33 @@
 [2026-05-29 13:44:18,729: INFO: main: Welcome to Python Advance Batch-1 logs:]
 [2026-05-29 13:44:44,647: INFO: main: Welcome to Python Advance Batch-1 logs:]
+[2026-05-29 17:23:25,257: INFO: common: YAML file config\config.yaml loaded successfully:]
+[2026-05-29 17:23:25,260: INFO: common: YAML file params.yaml loaded successfully:]
+[2026-05-29 17:23:25,262: INFO: common: created directory at: artifacts:]
+[2026-05-29 17:23:25,265: INFO: common: created directory at: artifacts/data_ingestion:]
+[2026-05-29 17:23:26,302: INFO: 4037744573: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A31A:2FB4BD:80E934:9CFEAA:6A197931
+Accept-Ranges: bytes
+Date: Fri, 29 May 2026 11:53:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del-vibw2260025-DEL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1780055606.338473,VS0,VE7
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 80e070db6234ec33a44c1cddbc4442ded05f1da9
+Expires: Fri, 29 May 2026 11:58:26 GMT
+Source-Age: 19
+
+:]
